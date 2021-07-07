@@ -19,7 +19,7 @@ Some of them I built during the time I was studying at Microverse School and oth
 
 👤 **Mohammed Naqhid**
 
-- GitHub: [@Naqhid](https://github.com/Naqhid)s
+- GitHub: [@Naqhid](https://github.com/Naqhid)
 - Twitter: [Naqhid](https://twitter.com/naqhid)
 - LinkedIn: [Naqhid](https://www.linkedin.com/in/mohammed-naqhid-ab3080189/)
 - Email: mnaqhid@gmail.com
