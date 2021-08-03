@@ -54,16 +54,45 @@
         "College":"Aalim Muhammed Salegh College",
         "degree":"Btech IT",
         "graduated":"former student",
-        "description":"Bachelor of Technology (B.Tech) course in Information Technology covers both technical and management aspects of computer-based tools."
+        "description":"The first year required the study of foundations of mathematics, physics, computer science, computer networks and electronics. The second year required the study of advanced mathematics and physics, and the fundamentals of electronic systems."
+      }
+    ],
+    "work":[
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
       }
     ]
-   
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"I worked with Alexandru at Microverse. Alexandra is detailed orientated, has advanced system engineering and problem-solving skills. He has the ability to effectively manage several tasks at a time.",
-        "user":"Hillary Okello | Software Developer"
+        "text":"Alexandru has a great mentality that always seeks to improve his skills. His discipline makes working with him easy and challenging at the same time. He loves to share his ideas and accomplishments with other people, which makes him very easily leave an impact in any working environment.",
+        "user":"Hillary Okello | Software Engineer - Full Stack Ruby on Rails/React.js"
+      },
+      {
+        "text":"",
+        "user":""
       }
     ]
   }
