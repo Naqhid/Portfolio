@@ -3,7 +3,7 @@
 This repo contains my personal portfolio to show my personal project that I built.
 Some of them I built during the time I was studying at Microverse School and other I build as my personal goals.
 
-![screenshot](images/ss.png)
+![screenshot](assets/ss.png)
 
 ## Built With
 
